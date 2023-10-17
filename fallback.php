@@ -1,4 +1,4 @@
-<?php
+<?html
 header('Content-Type: application/json');
 
 
