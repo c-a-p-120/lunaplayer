@@ -1,4 +1,4 @@
-<?html
+<?txt
 header('Content-Type: application/json');
 
 
